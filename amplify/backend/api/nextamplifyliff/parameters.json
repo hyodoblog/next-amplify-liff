@@ -1,5 +1,6 @@
 {
   "AppSyncApiName": "nextamplifyliff",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-01-26T10:55:55.561Z"
 }

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "nextamplifyliff",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/freedom/Development/next-test/next-amplify-liff/amplify/backend/api/nextamplifyliff/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

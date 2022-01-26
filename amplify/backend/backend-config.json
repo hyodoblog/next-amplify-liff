@@ -18,5 +18,11 @@
       }
     }
   },
-  "function": {}
+  "function": {
+    "authChallengeTrigger": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
 }
